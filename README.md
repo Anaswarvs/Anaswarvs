@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @Anaswarvs
+# 👋 Hi, I’m @Anaswaravs
 
 🎓 I’m a passionate Data Science professional with a strong academic foundation in Statistics (MSc) and hands-on experience in real-world data projects. I specialize in extracting insights, building predictive models, and creating compelling visualizations to drive business decisions.
 
