@@ -7,14 +7,16 @@
 - Machine Learning & Deep Learning  
 - Natural Language Processing (NLP)  
 - Business Intelligence & Dashboarding  
-- Computer Vision Projects  
+- Computer Vision Projects
+- Generative AI
 
 ## 🌱 I’m currently learning:
 - Advanced Machine Learning Techniques  
 - Deployment and Automation of ML Models  
 - Scalable Data Pipelines  
 - Rasa Chatbot Enhancements  
-- Cloud Technologies (AWS/GCP) for Data Science  
+- Cloud Technologies (AWS/GCP) for Data Science
+- RAG,APIs,Langchain
 
 ## 💼 Experience Highlights:
 **🔹 Data Science Intern @ Luminar Technohub**  
@@ -25,7 +27,11 @@
 **🔹 Data Analyst Intern @ Apana Time**  
 - Led business performance analysis using Python, SQL & Excel  
 - Automated data tasks to streamline reporting  
-- Developed live projects for business and operational insights  
+- Developed live projects for business and operational insights
+** * AI DEVELOPER INTERN @ Quadtri technologies pvt ltd **
+ - Developed and deployed computer vision solutions using Python, OpenCV, and YOLO for real-time object detection, tracking,     and video analytics applications.
+ -Integrated RTSP/IP camera streams, processed image and video datasets, and optimized AI models to improve detection           accuracy, performance, and scalability.
+ -Collaborated with cross-functional teams to build AI-powered applications, implement API integrations, troubleshoot           production issues, and maintain code using Git/GitHub. 
 
 ## 🚀 Projects:
 - **Business Operations Analysis (Live Project)**  
